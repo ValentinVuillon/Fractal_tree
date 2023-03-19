@@ -35,7 +35,7 @@ void draw(){
       ratio=ratio-0.01;
     }
     if (key == 'r') {
-      ratio=ratio-+0.01;
+      ratio=ratio+0.01;
     }
      if (key=='t') {
       basis_length=basis_length-5;
