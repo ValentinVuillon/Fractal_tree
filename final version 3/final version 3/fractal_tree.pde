@@ -1,3 +1,4 @@
+import controlP5.*; 
   PVector point_;
   PVector vector_;
 
@@ -25,28 +26,28 @@ void draw(){
   
   if (keyPressed == true) {
     if (key == 'a') {
-      angle=angle+0.01;
-    }
-    if (key=='z') {
       angle=angle-0.01;
     }
-     if (key=='e') {
-      ratio=ratio+0.01;
+    if (key=='z') {
+      angle=angle+0.01;
     }
-    if (key == 'r') {
+     if (key=='e') {
       ratio=ratio-0.01;
     }
-     if (key=='t') {
-      basis_length=basis_length+5;
+    if (key == 'r') {
+      ratio=ratio+0.01;
     }
-    if (key=='y') {
+     if (key=='t') {
       basis_length=basis_length-5;
     }
+    if (key=='y') {
+      basis_length=basis_length+5;
+    }
      if (key=='u') {
-      limit_branch_length=limit_branch_length+0.1;
+      limit_branch_length=limit_branch_length-0.1;
     }
     if (key=='i') {  
-      limit_branch_length=limit_branch_length-0.1;
+      limit_branch_length=limit_branch_length+0.1;
       if( limit_branch_length<=0){
          limit_branch_length=0.01;
       }
