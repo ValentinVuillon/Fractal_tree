@@ -1,5 +1,7 @@
-Commands:  
+How to run the code:  
+Install processing and run the code fractal_tree.pde
 
+Commands:  
 Position of mouse: changes the origin of the tree.  
 a: decreases the angle used to create the branches.  
 z: increases the angle used to create the branches.  
