@@ -11,3 +11,9 @@ t: decreases the lenght of the first branch.
 y: increases the lenght of the first branch.  
 u: the branches are created recursively until they are attaining a certain lentgh. It decreases this length.  
 i: the branches are created recursively until they are attaining a certain lentgh. It increases this length.  
+
+
+Here are trees obtained with the code:  
+
+![IMAGE!](pictures/v1image)
+
