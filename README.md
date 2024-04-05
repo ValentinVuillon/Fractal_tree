@@ -15,5 +15,5 @@ i: the branches are created recursively until they are attaining a certain lentg
 
 Here are trees obtained with the code:  
 
-![IMAGE!](pictures/v1image)
+![IMAGE!](pictures/v1image1)
 
