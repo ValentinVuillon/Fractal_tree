@@ -24,3 +24,30 @@ Obtained with version 1:
 ![IMAGE!](pictures/v1image5.png)
 ![IMAGE!](pictures/v1image6.png)
 ![IMAGE!](pictures/v1image7.png)
+
+Obtained with version 2:  
+
+![IMAGE!](pictures/v2image1.png)
+![IMAGE!](pictures/v2image2.png)
+
+Obtained with version 3:  
+
+![IMAGE!](pictures/v3image1.png)
+
+Obtained with version 4:  
+
+![IMAGE!](pictures/v4image1.png)
+![IMAGE!](pictures/v4image2.png)
+![IMAGE!](pictures/v4image3.png)
+
+Obtained with version 5:  
+
+![IMAGE!](pictures/v5image1.png)
+![IMAGE!](pictures/v5image2.png)
+
+Obtained with version 6:  
+
+![IMAGE!](pictures/v6image1.png)
+![IMAGE!](pictures/v6image2.png)
+
+
