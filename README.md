@@ -1,7 +1,7 @@
-How to run the code:  
+#### How to run the code:  
 Install processing and run the code fractal_tree.pde
 
-Commands:  
+#### Commands:  
 Position of mouse: changes the origin of the tree.  
 a: decreases the angle used to create the branches.  
 z: increases the angle used to create the branches.  
@@ -13,7 +13,7 @@ u: the branches are created recursively until they are attaining a certain lentg
 i: the branches are created recursively until they are attaining a certain lentgh. It increases this length.  
 
 
-Here are trees obtained with the code:  
+#### Gallery of pictures obtained with the code  
 
 Obtained with version 1:  
 
