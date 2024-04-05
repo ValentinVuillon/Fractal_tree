@@ -1,3 +1,5 @@
+A processing codes to generate fractal trees.  
+
 #### How to run the code:  
 Install processing and run the code fractal_tree.pde
 
