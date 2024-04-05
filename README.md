@@ -1,5 +1,3 @@
-I uploaded screenshots for each presets so you can see what can be obtained.
-
 How to run the code:  
 Install processing and run the code fractal_tree.pde
 
